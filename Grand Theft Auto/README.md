@@ -8,10 +8,10 @@
 
 如果说有哪个系列真正把“开放世界犯罪游戏”这几个字写成了行业通用语言，《侠盗猎车手》几乎就是最直接的答案。但这个系列真正被今天玩家记住，并不是因为它一直长成同一个样子，而是因为它在不同阶段不断重写“城市、犯罪、自由和讽刺”这几个核心词的表达方式。
 
-本目录只讨论两个阶段：
+本目录当前主要讨论两个阶段：
 
 - 3D 时代：从《Grand Theft Auto III》开始，到《Vice City Stories》为止
-- HD 时代：从《Grand Theft Auto IV》开始，到《Grand Theft Auto V》与《Grand Theft Auto Online》所代表的这一条现代主线
+- HD 时代：从《Grand Theft Auto IV》开始，到《Grand Theft Auto V》为止，并补入《Chinatown Wars》这一部掌机分支作品
 
 这两个阶段最重要的区别，不只是画面升级，而是叙事和世界观都被重新分段。3D 时代确立了系列最经典的城市原型、黑帮片气质和开放世界任务结构；HD 时代则在技术、写实度和叙事密度上进一步推进，同时明确采用了与 3D 时代分开的连续设定。也就是说，《GTA IV》之后虽然仍然回到 Liberty City、Los Santos 这些熟悉名字，但它们已经不是完全沿用旧时代设定的同一座城市。
 
@@ -46,12 +46,11 @@
 
 这一段是 HD 时代真正立规矩的阶段。《GTA IV》把 Liberty City 改写得更写实、更沉重，也让系列第一次明显转向移民叙事、现实讽刺和更强的电影化演出；两部资料片则从不同阶层和不同气质切开同一座城市；《Chinatown Wars》则是这一时期不能漏掉的掌机分支，它虽然采用俯视角表达，但世界观与设定归属仍属于 HD 时代的 Liberty City。
 
-### 2.4 HD 时代 Los Santos 与在线扩展期
+### 2.4 HD 时代 Los Santos 收束期
 
 - `Grand Theft Auto V`
-- `Grand Theft Auto Online`
 
-这一阶段让系列重新回到更张扬、更讽刺、更强调多主角切换和系统规模的方向，也把《GTA》从单机时代名作进一步推进成了长期运营型文化现象。
+这一阶段让系列重新回到更张扬、更讽刺、更强调多主角切换和系统规模的方向。《GTA V》既像 HD 时代对 Los Santos 的重构，也像这一轮主线整理里最适合作为阶段收束点的一部。
 
 ---
 
@@ -69,7 +68,6 @@
 8. 《Grand Theft Auto: The Ballad of Gay Tony》
 9. 《Grand Theft Auto: Chinatown Wars》
 10. 《Grand Theft Auto V》
-11. 《Grand Theft Auto Online》
 
 如果只想先抓住这次目录最核心的主干，也可以先读：
 
@@ -85,13 +83,19 @@
 
 ## 4. 当前已覆盖条目
 
-当前目录已覆盖第一批核心条目：
+当前目录已覆盖以下条目：
 
 - 《Grand Theft Auto III》
 - 《Grand Theft Auto: Vice City》
 - 《Grand Theft Auto: San Andreas》
+- 《Grand Theft Auto: Liberty City Stories》
+- 《Grand Theft Auto: Vice City Stories》
+- 《Grand Theft Auto IV》
+- 《Grand Theft Auto: Episodes from Liberty City》
+- 《Grand Theft Auto: Chinatown Wars》
+- 《Grand Theft Auto V》
 
-这一批的作用，是先把 3D 时代最关键的主干立起来。只要把这三作连着读完，读者大致就能看清系列为什么会在 2000 年代前半段形成如此强的统治力：它先用 Liberty City 立规则，再用 Vice City 做风格化巩固，最后在 San Andreas 把地图、系统、叙事和流行文化浓度一起推到高峰。
+目前目录已经覆盖你当前要求的主干范围：3D 时代核心三部曲、PSP 前传补完线、HD 时代 Liberty City 主干、《Chinatown Wars》这部掌机分支，以及《GTA V》作为当前整理范围内的阶段收束点。这样一来，读者已经可以从 3D 时代的城市奠基，一路读到 HD 时代 Los Santos 的三主角收束。
 
 ---
 
@@ -103,7 +107,7 @@
 - 常说的“GTA 三部曲”在这两个时代里至少有两种常见指法：一是原本的 3D 时代核心三部曲《III》《Vice City》《San Andreas》；二是后来的整合产品 `Grand Theft Auto: The Trilogy` / `Grand Theft Auto: The Trilogy – The Definitive Edition`。
 - `Grand Theft Auto: The Trilogy` 是早期把 3D 时代核心三作打包到一套合集中的发行形态；`Grand Theft Auto: The Trilogy – The Definitive Edition` 则是 2021 年推出的重制整合版，不能和原始合集混为一谈。
 - 《Grand Theft Auto IV》的两部重要扩展内容《The Lost and Damned》《The Ballad of Gay Tony》后来以 `Episodes from Liberty City` 形式整合发行，也常和《GTA IV Complete Edition》一起被讨论。
-- 《Grand Theft Auto V》与《Grand Theft Auto Online》长期高度绑定，但两者并不等于同一个产品：前者是三主角单人主线，后者是基于同一舞台持续扩展的在线模式与独立运营内容。
+- 《Grand Theft Auto V》后续长期与《Grand Theft Auto Online》绑定传播，但当前目录主线只把《GTA V》本体列为必要覆盖对象，不单独展开在线模式条目。
 - 3D 时代若讨论掌机与补完作品，最好把《Advance》《Liberty City Stories》《Vice City Stories》单独标明，不要直接并入三部正传概念。
 - 《Grand Theft Auto: Chinatown Wars》虽然回到俯视角表达，但通常仍归入 HD 时代，而不是回归早期 2D 时代脉络。
 
@@ -113,20 +117,11 @@
 
 ## 6. 后续可补方向
 
-按当前分期，下一批比较适合继续补的内容包括：
+按你当前限定的范围，这个系列主干整理已经基本完成。后续如果继续扩展，比较适合补的方向会变成：
 
-- `Grand Theft Auto: Liberty City Stories`
-- `Grand Theft Auto: Vice City Stories`
-- `Grand Theft Auto IV`
-- `Grand Theft Auto: Episodes from Liberty City`
-
-如果再往后顺一批，最适合接上的就是：
-
-- `Grand Theft Auto: Chinatown Wars`
-- `Grand Theft Auto V`
-- `Grand Theft Auto Online`
-
-这样能顺势把 3D 时代补完期和 HD 时代 Liberty City 重构期接起来。
+- 版本差异专题：`The Trilogy`、`The Definitive Edition`、`Complete Edition`
+- 城市专题：Liberty City / Vice City / Los Santos
+- 角色或势力专题：Leone Family、Vance 兄弟、Niko / Johnny / Luis 三线对照
 
 ---
 
