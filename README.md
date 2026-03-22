@@ -20,6 +20,10 @@
   - 《抗日：血战上海滩》
   - 《暴力摩托》系列
   - 《节奏天国 Wii》
+  - 《热血无赖》
+  - 《双人成行》
+  - 《逃出生天》
+  - 《双影奇境》
 
 ---
 
@@ -82,12 +86,16 @@
 - [《辐射》系列](./Fallout/README.md)
 - [《生化危机》系列](./Resident%20Evil/README.md)
 - [《天国：拯救》系列](./Kingdom%20Come%20Deliverance/README.md)
+- [《泰坦陨落》系列](./Titanfall/README.md)
 - [《铁拳》系列](./Tekken/README.md)
 - [《偶像大师》系列](./偶像大师/README.md)
 - [《往日不再》系列](./Days%20Gone/README.md)
 - [《文明》系列](./Civilization/README.md)
 - [《巫师》系列](./The%20Witcher/README.md)
+- [《求生之路》系列](./Left%204%20Dead/README.md)
+- [《收获日》系列](./PAYDAY/README.md)
 - [《汤姆·克兰西》系列游戏](./Tom%20Clancy/README.md)
+- [《英雄传说》系列](./英雄传说/README.md)
 - [《真三国无双》系列](./Dynasty%20Warriors/README.md)
 - [《无双大蛇》系列](./Warriors%20Orochi/README.md)
 - [《樱花大战》系列](./Sakura%20Wars/README.md)
