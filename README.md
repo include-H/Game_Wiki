@@ -75,6 +75,8 @@
 - [《文明》系列](./Civilization/README.md)
 - [《巫师》系列](./The%20Witcher/README.md)
 - [《汤姆·克兰西》系列游戏](./Tom%20Clancy/README.md)
+- [《真三国无双》系列](./Dynasty%20Warriors/README.md)
+- [《无双大蛇》系列](./Warriors%20Orochi/README.md)
 - [《樱花大战》系列](./Sakura%20Wars/README.md)
 - [《仙剑奇侠传》系列](./仙剑奇侠传/README.md)
 - [《轩辕剑》系列](./轩辕剑/README.md)
