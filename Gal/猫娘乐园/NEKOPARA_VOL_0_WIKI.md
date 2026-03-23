@@ -32,7 +32,7 @@
 
 - 正式名称：NEKOPARA Vol.0
 - 常见中文译名：猫娘乐园 Vol.0、NEKOPARA Vol.0
-- 类型：视觉小说、fan disc、前传日常向 ADV
+- 类型：视觉小说、fan disc、前传日常向、 ADV
 - 开发商：NEKO WORKs
 - 发行商：Sekai Project
 - 发售日期：2015 年 8 月 17 日
