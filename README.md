@@ -24,6 +24,7 @@
   - 《双人成行》
   - 《逃出生天》
   - 《双影奇境》
+  - 《赛博朋克 2077》
 
 ---
 
@@ -89,6 +90,8 @@
 - [《奇异人生》系列](./Life%20is%20Strange/README.md)
 - [《秋之回忆》系列](./%E7%A7%8B%E4%B9%8B%E5%9B%9E%E5%BF%86/README.md)
   - 当前已覆盖：《秋之回忆》《秋之回忆2》《想君：秋之回忆》《秋之回忆：从今以后》《秋之回忆 #5：中断的胶片》《秋之回忆6：T-wave》《秋之回忆：誓约的记忆》《秋之回忆 -Innocent Fille-》《秋之回忆 -Innocent Fille- for Dearest》《秋之回忆 After Rain》《秋之回忆：从今以后 again》《秋之回忆 #5 encore》《秋之回忆6 Next Relation》《秋之回忆：誓约的记忆 ふたりの風流庵（ぷらす）》《SINce Memories：在星天之下》《秋之回忆 双想 ～Not always true～》
+- [《近月少女的礼仪》系列](./近月少女的礼仪/README.md)
+  - 当前已覆盖：《近月少女的礼仪》《少女理论及其周边 -Ecole de Paris-》《少女理论及其后的周边 -Belle Epoque-》《近月少女的礼仪2》《近月少女的礼仪2.1 E×S×PAR!!》《近月少女的礼仪2.2 A×L+SA!!》
 - [《荣誉勋章》系列](./Medal%20of%20Honor/README.md)
 - [《最终幻想》系列](./最终幻想/README.md)
 - [《如龙》系列](./Like%20a%20Dragon/README.md)
@@ -98,6 +101,16 @@
 - [《杀手》系列](./Hitman/README.md)
 - [《上古卷轴》系列](./The%20Elder%20Scrolls/README.md)
 - [《辐射》系列](./Fallout/README.md)
+- [《FLOWERS 四季》系列](./Flowers%20%E5%9B%9B%E5%AD%A3/README.md)
+  - 当前已覆盖：《FLOWERS 春篇》《FLOWERS 夏篇》《FLOWERS 秋篇》《FLOWERS 冬篇》
+- [《四季的谎言》系列](./%E5%9B%9B%E5%AD%A3%E7%9A%84%E8%B0%8E%E8%A8%80%E7%B3%BB%E5%88%97/README.md)
+  - 当前已覆盖：《春天的谎言 -Passing Memories-》《夏天的谎言 -Ahead of the reminiscence-》《秋天的谎言 -The only neat thing to do-》《冬天的谎言 -Snow World End-》《フルウソ -Complete Four Seasons-》
+- [《美少女万华镜》系列](./%E7%BE%8E%E5%B0%91%E5%A5%B3%E4%B8%87%E5%8D%8E%E9%95%9C/README.md)
+  - 当前已覆盖：《被诅咒的传说少女》《勿忘草与永远的少女》《献给曾经是少女的你》《神明所创造的少女们》《罪与罚的少女》《理与迷宫的少女》
+- [《花与乙女的祝福》系列](./%E8%8A%B1%E4%B8%8E%E4%B9%99%E5%A5%B3%E7%9A%84%E7%A5%9D%E7%A6%8F/README.md)
+  - 当前已覆盖：《花与乙女的祝福》《花与乙女的祝福 皇家花束》
+- [《白色相簿》系列](./%E7%99%BD%E8%89%B2%E7%9B%B8%E7%B0%BF/README.md)
+  - 当前已覆盖：《WHITE ALBUM》《WHITE ALBUM2》
 - [《生化危机》系列](./Resident%20Evil/README.md)
 - [《天国：拯救》系列](./Kingdom%20Come%20Deliverance/README.md)
 - [《泰坦陨落》系列](./Titanfall/README.md)
@@ -115,6 +128,8 @@
   - 当前已覆盖：《幻想传说》《宿命传说》《永恒传说》《宿命传说2》《重生传说》《心灵传说》《仙乐传说》《深渊传说》《薄暮传说》《圣恩传说 f》《无尽传说》《无尽传说2》《情热传说》《绯夜传奇》《破晓传说》
 - [《同级生 / 下级生》系列](./%E5%90%8C%E7%BA%A7%E7%94%9F%E4%B8%8E%E4%B8%8B%E7%BA%A7%E7%94%9F%E7%B3%BB%E5%88%97/README.md)
   - 当前已覆盖：《同级生》《下级生》《同级生2》《下级生2》
+- [《女装系列》](./%E5%A5%B3%E8%A3%85%E7%B3%BB%E5%88%97/README.md)
+  - 当前已覆盖：《女装山脉》《女装海峡》《女装学园（妊）》《女装学园（孕）》《Trap Shrine》《Trap Legend》《Trap Genesis》
 - [《英雄传说》系列](./英雄传说/README.md)
 - [《真三国无双》系列](./Dynasty%20Warriors/README.md)
 - [《无双大蛇》系列](./Warriors%20Orochi/README.md)
