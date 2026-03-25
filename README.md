@@ -67,6 +67,7 @@
 - [《Dead or Alive》系列](./Dead%20or%20Alive/README.md)
 - [《Dead or Alive Xtreme》系列](./Dead%20or%20Alive%20Xtreme/README.md)
 - [《Deadly Dozen》系列](./Deadly%20Dozen/README.md)
+- [《黑暗之魂》三部曲](./黑暗之魂/README.md)
 - [《Drakengard》系列](./Drakengard/README.md)
 - [《Dying Light》系列](./Dying%20Light/README.md)
 - [《Dynasty Warriors》系列](./Dynasty%20Warriors/README.md)
